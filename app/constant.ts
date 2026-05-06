@@ -1,1 +1,1 @@
-export const API_BASE_URL = '<your-workflow-url-NO-TRAILING-SLASH>';
+export const API_BASE_URL = 'https://workflows-waitforevent.kevinlupera.workers.dev';
